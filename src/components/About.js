@@ -20,7 +20,7 @@ class About extends Component {
                 <div className="human-timeline clearfix">
                     <h1>Human Experience</h1>
                     <div className="timeline-item" onClick={this.renderImage}>
-                        <h2>1900</h2>
+                        <h2>1990</h2>
                         <p>Born at Saint Vincent’s Hospital in NYC at 9:40pm. <br></br><br></br>Weighed in at 7 lbs. 3 ozs.</p>
                     </div>
                     <div>                     
