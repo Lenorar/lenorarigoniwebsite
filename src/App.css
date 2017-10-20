@@ -12,13 +12,19 @@ html {
   font-family: 'Source Sans Pro', sans-serif;
 }
 .subnav {
-  padding: 5% 5% 5% 0;
+  padding: 5% 2% 2% 0;
 }
 
 a.subnav-item {
   margin:0;
   text-decoration: none;
   display:block;
+}
+
+h4{
+  margin:0;
+  font-size: .8rem;
+  font-weight: 500;
 }
 
 a.subnav-item:hover{
@@ -144,7 +150,6 @@ img.project-item {
 img.github {
   display: block;
   width: 20px;
-  color:orange;
 }
 a img { display:none; }
 a:hover img { display:block; }
@@ -168,15 +173,19 @@ a:hover img { display:block; }
   border-right: 1px solid grey;
 }
 
+.project-intro{
+}
 .project-details {
   float: left;
   width: 200px;  
+  padding-right: 20px;
   
 }
 .project-summary{
   width: 50%;
   float: left;
-  height: 50vh;
+  height: 400px;
+  margin-bottom: 5px;
 }
 
 .image-container {

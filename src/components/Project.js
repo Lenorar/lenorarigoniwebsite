@@ -21,17 +21,19 @@ import projectData from './project-data';
         return(
             <div className=" clearfix">
                 <div className="project-container clearfix">
-                    <div className="project-intro">
+                    <div className="project-intro clearfix">
                         <div className="project-details">
                             <h1>{projectInfo.title}</h1>
                             <p>{projectInfo.year}</p>
                             <a href={projectInfo.link}><p>link</p></a>
-                            <h3>{projectInfo.participation[0]}</h3>
-                            <h3>{projectInfo.participation[1]}</h3>
-                            <h3>{projectInfo.participation[2]}</h3>
+                            <h4>{projectInfo.participation[0]}</h4>
+                            <h4>{projectInfo.participation[1]}</h4>
+                            <h4>{projectInfo.participation[2]}</h4>
                         </div>
                         <div className="project-summary">
                             <p>{projectInfo.description}</p>
+                            <p>{projectInfo.credit}</p>
+
                         </div>
                     </div>
                     <div className="project-content-container">
