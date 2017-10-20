@@ -51,7 +51,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>2014</h2>
-                        <p>Started doing the agency thing.</p><p>Learned a whole bunch.</p><p><a href ="https://www.youtube.com/watch?v=NSrVKVGBAcE">This</a> is my favorite advertisement.</p>
+                        <p>Started doing the agency thing.</p><p>Learned a whole bunch.</p><p><a target="_blank" href ="https://www.youtube.com/watch?v=NSrVKVGBAcE">This</a> is my favorite advertisement.</p>
                     </div>
                     <div className="timeline-item">
                         <h2>2015</h2>
@@ -63,7 +63,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>Now</h2>
-                        <p>I am always looking to work on new and exciting projects especially when I can stretch my skills. Please get in touch!</p>
+                        <p>I am always looking to work on new and exciting projects especially when I can stretch my skills.</p><p>Please get in touch!</p>
                     </div>
                 </div>
                 <div className="my-toolkit">
