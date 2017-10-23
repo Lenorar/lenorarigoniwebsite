@@ -17,7 +17,6 @@ class Nav extends Component {
                     <Link to={Projects}><p className="nav-item">design</p></Link>
                     <Link to={About}><p className="nav-item">about</p></Link>
                 </div>
-
         )
       }
     }
