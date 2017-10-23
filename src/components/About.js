@@ -15,7 +15,6 @@ class About extends Component {
                     <span><a target="_blank" href="https://www.linkedin.com/in/lenorarigoni/">linkedin</a></span>
                     <span><a target="_blank" href="https://github.com/Lenorar">github</a></span>
                     <span><a target="_blank" href="https://www.instagram.com/len_til/">instagram</a></span>
-                    <span><a href="mailto:lenorarigoni@gmail.com">lenorarigoni.com</a></span>
                 </div>
                 <div className="human-timeline clearfix">
                     <h1>Human Experience</h1>
@@ -31,7 +30,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>2000</h2>
-                        <p>Doodled and danced tap and ballet through middle and high school <br></br><br></br>I like <a target="_blank"href="https://www.youtube.com/watch?v=9bXWWz5Tv_I">this</a> a lot.</p>
+                        <p>Doodled and danced tap and ballet through middle and high school <br></br><br></br>I like <a target="_blank"href="https://www.youtube.com/watch?v=9bXWWz5Tv_I">this.</a> a lot.</p>
                     </div>
                     <div className="timeline-item">
                         <h2>2009</h2>
@@ -59,7 +58,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>2017</h2>
-                        <p>Went to General Assembly’s Web Design Immersive where I focused on full stack development.</p><p>Got really into <a href="http://www.codepuns.com/">coding puns</a></p>
+                        <p>Went to General Assembly’s Web Design Immersive where I focused on full stack development.</p><p>Got really into <a href="http://www.codepuns.com/">coding puns.</a></p>
                     </div>
                     <div className="timeline-item">
                         <h2>Now</h2>
