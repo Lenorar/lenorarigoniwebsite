@@ -73,7 +73,7 @@ class About extends Component {
                         <h2>Medi-flash</h2>
                         <p className="description">Full CRUD application for medical students to create flashcards, made through Merriam-Webster Medical Dictionary API or their own definitions, to better study. </p>
                         <img  className="profile" src="https://res.cloudinary.com/doez5fa8j/image/upload/v1508383459/medi-flash-website_kgeass.png" />
-                        <h3>React, Node.js, Express, Javascriptt, CSS</h3>
+                        <h3>React, Node.js, Express, Javascript, CSS</h3>
                         <a href="https://github.com/Dichora2"><img className="github" src={img}/></a> 
                     </div>
                     </a>
