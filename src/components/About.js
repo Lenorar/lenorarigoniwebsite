@@ -30,7 +30,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>2000</h2>
-                        <p>Doodled and danced tap and ballet through middle and high school <br></br><br></br>I like <a target="_blank"href="https://www.youtube.com/watch?v=9bXWWz5Tv_I">this.</a> a lot.</p>
+                        <p>Doodled and danced tap and ballet through middle and high school <br></br><br></br>I like <a target="_blank"href="https://www.youtube.com/watch?v=9bXWWz5Tv_I">this</a> a lot.</p>
                     </div>
                     <div className="timeline-item">
                         <h2>2009</h2>
