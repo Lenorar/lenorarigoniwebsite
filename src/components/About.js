@@ -62,7 +62,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2>Now</h2>
-                        <p>I am always looking to work on new and exciting projects especially when I can stretch my skills.</p><p>Please get in touch!</p>
+                        <p>I am always looking to work on new and exciting projects.</p><p>Please get in touch!</p>
                     </div>
                 </div>
                 <div className="my-toolkit">
@@ -74,7 +74,7 @@ class About extends Component {
                     </div>
                     <div className="toolkit-item">
                         <h2>Web Development</h2>
-                        <p>React, Node.js, Express, Ruby on Rails, PSQL, Github, Javascript, Jquery, CSS, Sass</p>
+                        <p>React, Node.js, Express, Ruby on Rails, PosgreSQL, Github, Javascript, Jquery, CSS, Sass</p>
                     </div>
                 </div>
             </div>

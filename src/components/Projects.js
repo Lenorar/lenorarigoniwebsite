@@ -1,4 +1,4 @@
-    import React, { Component } from 'react';
+import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Project from './Project';
 import projectData from './project-data';
