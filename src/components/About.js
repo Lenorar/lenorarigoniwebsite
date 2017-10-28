@@ -8,14 +8,29 @@ class About extends Component {
         return(
             <div className="body clearfix">
                 <div className='intro '>
-                    <h1>Lenora Rigoni</h1>
-                    <p> I am a multi-disciplinary designer with web development experience living in New York City. I simply like to make things and solve some problems while doing so. I have worked on projects in web design, brand identity, application design, web development, social media content and more.</p>
+                    <div>
+                        <h1 className="website-title">Lenora Rigoni</h1>
+                        <p className="website-title"> I am a multi-disciplinary designer with web development experience living in New York City. From sketching to writing Javascript, I like to make usable things with progressive tools. I have worked on projects in web design, brand identity, application design, web development, creative direction, social media content and more.</p>
+                        <div className="person-links">
+                            <span><a target="_blank" href="https://www.linkedin.com/in/lenorarigoni/">linkedin</a></span>
+                            <span><a target="_blank" href="https://github.com/Lenorar">github</a></span>
+                            <span><a target="_blank" href="https://www.instagram.com/len_til/">instagram</a></span>
+                        </div>                          
+                    </div>
+                    
+                    <div className="my-toolkit clearfix">
+                        <div className="toolkit-item">
+                            <h2>Design</h2>
+                            <p>Adobe Creative Suite, Sketch, SketchUp, Invision, Digital Photography, Film Photography, Silkscreen</p>
+                        </div>
+                        <div className="toolkit-item">
+                            <h2>Web Development</h2>
+                            <p>React, Node.js, Express, Ruby on Rails, PosgreSQL, Github, Javascript, Jquery, CSS, Sass</p>
+                        </div>
+                    </div>
                 </div>
-                <div className="person-links">
-                    <span><a target="_blank" href="https://www.linkedin.com/in/lenorarigoni/">linkedin</a></span>
-                    <span><a target="_blank" href="https://github.com/Lenorar">github</a></span>
-                    <span><a target="_blank" href="https://www.instagram.com/len_til/">instagram</a></span>
-                </div>
+
+
                 <div className="human-timeline clearfix">
                     <h1>Human Experience</h1>
                     <div className="timeline-item" onClick={this.renderImage}>
@@ -65,18 +80,7 @@ class About extends Component {
                         <p>I am always looking to work on new and exciting projects.</p><p>Please get in touch!</p>
                     </div>
                 </div>
-                <div className="my-toolkit">
-                    <h2>My toolkit</h2>
-                    <div className="toolkit-item">
-                        <h2>Design</h2>
-                        <p>Adobe Creative Suite, Sketch, SketchUp, Invision, Digital Photography, Film Photography, Silkscreen</p>
 
-                    </div>
-                    <div className="toolkit-item">
-                        <h2>Web Development</h2>
-                        <p>React, Node.js, Express, Ruby on Rails, PosgreSQL, Github, Javascript, Jquery, CSS, Sass</p>
-                    </div>
-                </div>
             </div>
         )
       }
