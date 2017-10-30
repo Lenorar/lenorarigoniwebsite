@@ -14,9 +14,20 @@ html {
   background-color: #D9E8FF;
 }
 .body {
-  padding: 100px 5%;
+  padding: 200px 5%;
   font-family: 'Source Sans Pro', sans-serif;
+  -webkit-animation: fadein 1.5s; /* Safari, Chrome and Opera > 12.1 */
+
+
 }
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+  }
+
+
+
 .subnav {
   padding: 5% 2% 2% 0;
 }
@@ -30,6 +41,7 @@ a.subnav-item {
   text-decoration: none;
   display:block;
 }
+
 
 h4{
   margin:0;
@@ -63,13 +75,27 @@ span a:hover {
 .nav {
   padding: 40px 5% 0 5%;
   width: 100%;
+  height: 50px;
   position: fixed;
+  /* text-align: center; */
   background-color: #D9E8FF;
+  /* float: left; */
+  transition:font-size 12s;
+  
+}
+
+p.nav-item:hover {
+  text-decoration: underline;
 }
 
 p.nav-item{
-  padding: 0 50px 0 0;
+  padding-right: 40px;
   display: inline-block;
+}
+
+
+#root > div > div.nav > a:nth-child(1) > p {
+  text-align:left;
 }
 
 .intro{
