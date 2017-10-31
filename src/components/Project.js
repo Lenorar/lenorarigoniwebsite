@@ -25,7 +25,7 @@ import projectData from './project-data';
                         <div className="project-details">
                             <h1>{projectInfo.title}</h1>
                             <p>{projectInfo.year}</p>
-                            <a href={projectInfo.link}><p>link</p></a>
+                            <a target="_blank" href={projectInfo.link}><p>link</p></a>
                             <h4>{projectInfo.participation[0]}</h4>
                             <h4>{projectInfo.participation[1]}</h4>
                             <h4>{projectInfo.participation[2]}</h4>

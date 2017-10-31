@@ -97,6 +97,8 @@ export default [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427316/Screen_Shot_2017-06-06_at_9.24.14_PM_qtzygw.png',      
       ]
       },
+
+
       {
         id: 6,
         title: 'Madwell Holiday Gift',
@@ -119,9 +121,49 @@ export default [
              
       ]
       },
-
       {
         id: 7,
+        title: 'Thingmade',
+        year: '2015', 
+        link: 'https://www.thingmade.com/',
+        description: 'For the website launch of Thingmade, a boutique shop designed by Madwell, photography played a crucial role in setting the tone of the brand. Influenced by the colors of the brand and the nature of the products, we created quirky and surreal compositions.',
+        participation: ['art direction', 'photography'],
+        credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Annie Zeng',
+        abstract: 'Art direction and photography for Thingmade, a boutique shop founded by Madwell.',
+        images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414855/thingmade3_xrk7xi.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414438/1_kg9smw.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414786/thingmade1_t9mkpr.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414459/3_odpaci.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414477/5_eb4ecj.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414852/thingmade2_idlosf.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414847/scooping_w1viu9.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414475/4_c7jrri.jpg'
+         
+        ]
+      },
+      {
+        id: 8,
+        title: 'Artlook',
+        year: '2016', 
+        link: '',
+        participation: ['user-experience', 'design'],
+        description: 'Artlook helps users see what art event friends are attending, discover, share, plan, and attend art events. Using user experience processes, I found insights into consumer behavior to optimize my product.',
+        abstract: 'Artlook helps users see what art event friends are attending, discover, share, plan, and attend art events.',
+        images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415364/download_aifo53.png', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415369/Screen_Shot_2016-12-22_at_10.28.24_AM_bbqpqr.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415382/Screen_Shot_2016-12-22_at_11.00.50_AM_ehjait.png', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415385/Screen_Shot_2016-12-22_at_11.06.20_AM_visng8.png', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415387/Screen_Shot_2016-12-22_at_11.00.50_AM_1_jw2nku.png',      
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415394/Screen_Shot_2016-12-22_at_10.28.58_AM_ssbr03.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415401/Screen_Shot_2016-12-22_at_10.29.17_AM_xjubkk.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415402/Screen_Shot_2016-12-22_at_10.29.34_AM_yzqpfk.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415408/Screen_Shot_2017-01-17_at_9.56.06_AM_bn1yo6.png',
+      ]
+      },
+      {
+        id: 9,
         title: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide',
         year: '2016', 
         link: 'https://www.nybg.org/whats-on/',
