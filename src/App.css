@@ -65,6 +65,7 @@ span a{
 
 span a:hover {
   text-decoration: underline;
+  
 }
 
 .projects{
@@ -86,6 +87,8 @@ span a:hover {
 
 p.nav-item:hover {
   text-decoration: underline;
+  color: #FC9D91;
+  
 }
 
 p.nav-item{
@@ -137,6 +140,7 @@ a{
 
  p.description:hover, h2:hover{
     text-decoration: underline;
+    
 }
 
 h3 {
@@ -171,7 +175,7 @@ h1 {
 }
 
 .project-item:hover{
-  border-top: 3px solid white;
+  color:#FC9D91;
 }
 
 img.profile {
