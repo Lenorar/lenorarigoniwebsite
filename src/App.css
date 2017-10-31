@@ -11,10 +11,10 @@ p.website-title-nav {
 
 
 html {
-  background-color: #D9E8FF;
+  /* background-color: #D9E8FF; */
 }
 .body {
-  padding: 200px 5%;
+  padding: 100px 5%;
   font-family: 'Source Sans Pro', sans-serif;
   -webkit-animation: fadein 1.5s; /* Safari, Chrome and Opera > 12.1 */
 
@@ -78,7 +78,7 @@ span a:hover {
   height: 50px;
   position: fixed;
   /* text-align: center; */
-  background-color: #D9E8FF;
+  /* background-color: #D9E8FF; */
   /* float: left; */
   transition:font-size 12s;
   
@@ -90,6 +90,7 @@ p.nav-item:hover {
 
 p.nav-item{
   padding-right: 40px;
+  line-height: 40px;
   display: inline-block;
 }
 
@@ -108,7 +109,7 @@ p.nav-item{
 .timeline-item, .toolkit-item , .project-item{
   float: left;
   height: 250px;
-  width: 30vh;
+  width: 20vh;
   padding: 0 2% 2% 0;
   margin-right: 5%;
 }
@@ -140,7 +141,7 @@ a{
 
 h3 {
   font-size: 1rem;
-  font-weight: 200;
+  font-weight: 400;
 
 }
 
@@ -175,9 +176,10 @@ h1 {
 
 img.profile {
   position: fixed;
-  top: 18%;
-  left: 50%;
-  width: 40vw;
+  float:right;
+  top: 5%;
+  left: 35vw;
+  width: 50vw;
   /* bring your own prefixes */
   transform: translate(20%, 10%);
   z-index: -1

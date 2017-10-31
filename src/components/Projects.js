@@ -4,6 +4,7 @@ import Project from './Project';
 import projectData from './project-data';
 import { Redirect } from 'react-router-dom';
 
+
 class Projects extends Component {
     constructor(){
         super();

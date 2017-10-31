@@ -9,7 +9,8 @@ export default [
       credit: 'Agency: Madwell Art Director: Liz Garofano Designers:  Lenora Rigoni, Adrian Garcia Copy: Amanda Coten, David Salisbury Producer: Kalynn Rubino Account Manager: Colin Mckenzie',
       abstract: 'Groundwork is a fully responsive website sharing ideas, initiatives, and information regarding the protection and advancement of the environment, community, and foods.',
       images: [
-       'https://res.cloudinary.com/doez5fa8j/image/upload/v1508425443/groundworkhero1_okvqw7.jpg', 
+        'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489542/groundwork1_audmqi.png',
+      //  'https://res.cloudinary.com/doez5fa8j/image/upload/v1508425443/groundworkhero1_okvqw7.jpg', 
        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508425908/groundwork4_hlr7nf.png',
        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426011/sixsensor_hero_u3ahp3.png', 
        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426035/groundwork8_fh8kj8.png',
@@ -28,9 +29,9 @@ export default [
         description: 'Offkilter ceramics is my personal ceramics studio, based in brooklyn. Making the website was a personal project to develop my coding skills but became an opportunity for me to art direct the photography, produce ceramic pieces, and spearhead production.',
         abstract: 'Offkilter ceramics is my personal ceramics studio, based in brooklyn',
         images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489596/offkilter1_rkuipq.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426521/heroimage_nq7yxe.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426534/offkilter-layout_mojgn1.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426539/website-layout-02_x4hggz.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426542/website-layout-03_opqjli.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426544/website-layout-04_d47170.png', 
       ]
@@ -44,7 +45,7 @@ export default [
         credit: 'Agency: Madwell, Creative Director: Chris Sojka, Art Director: Matt Fry, 3D Modelers: Annie Zeng, Lenora Rigoni, Photographer: Andrea Fremiotti, Photo Compositor: John van Barneveld, Web Designers: Annie Zeng, Lenora Rigoni, Jake Smiley, Collins, Paper Crafters: Annie Zeng, Lenora Rigoni, Matt Fry, Olena Subchuk, Paper Retouchers: Annie Zeng, Lenora Rigoni, Olena Subchuk, Jacob Smiley',
         abstract: 'The \"Grow Boldly\" campaign for Babyganics, a baby-safe product line, brings to life the 2D Babyganics\'\ characters into 3D forms',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427919/bg_27_cinjz9.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489636/babyganics1_st6snb.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428467/bg_web_2_full-1_1_isseqf.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427941/18_h3qsw1.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428029/modelGallery1_jna3ir.jpg',         
@@ -69,7 +70,7 @@ export default [
         abstract: 'Microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition.',
         credit: 'Agency: Madwell, Lead Designer: Matt Fry, Designers: Ben Kirk, Lenora Rigoni, Lead YX Designer: Jess Mireau, UX Designers: Robyn Korine, Ben trinh, Lead Developer: Walt Mitchell, Developer: Katherine Beherec, Copywriter: Laura Wasson, Project Manager: Sal Librizzi, Account Manager: Hannah Stein',
         images: [
-        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427159/impressify-hero_1_ipeqv5.jpg',
+          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489662/NYBG-Impressify1_dptrqq.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426818/saved_resource_hlnqbl.jpg', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426868/saved_resource_2_gefrpe.gif',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426864/saved_resource_1_lp4e3s.jpg', 
@@ -90,7 +91,8 @@ export default [
         description: 'Max Weinman received a bespoke website showcasing his films and photography. Through collaboration, Max and I determined the content and structure of the site. From there I created wireframes. Once approved, I began implementing the design through code. With a few iterations a clear vision for his portfolio site was completed.',
         abstract: 'A bespoke website showcasing Max Weinman\'\s films and photography',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427307/minimal-mockup-1_jwidm1.jpg', 
+          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489693/maxweinmanportfolio1_hxuena.png',
+        //  'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427307/minimal-mockup-1_jwidm1.jpg', 
          'http://res.cloudinary.com/doez5fa8j/image/upload/v1508427311/Screen_Shot_2017-06-06_at_9.23.02_PM_yayrtb.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427314/Screen_Shot_2017-06-06_at_9.23.28_PM_tohgpb.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427320/1_bwwuxy.png', 
@@ -109,6 +111,7 @@ export default [
         credit: 'Agency: Madwell, Designers: Lenora Rigoni, Allison Supron, and Malissa Smith, Copy: Johanna Buch and Cecily Rus',
         abstract: 'Madwell\'\s holiday gift encourages recipients to predict their 2017 future selves and help them achieve their goals.',        
         images: [
+          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489838/madwell-holiday-gift1_ji11eo.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429456/saved_resource_1_gbfaey.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429459/card_vcni1m.gif',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429466/download_zroqhm.gif', 
@@ -131,7 +134,7 @@ export default [
         credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Annie Zeng',
         abstract: 'Art direction and photography for Thingmade, a boutique shop founded by Madwell.',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414855/thingmade3_xrk7xi.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489887/thingmade1_ksmsvp.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414438/1_kg9smw.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414786/thingmade1_t9mkpr.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414459/3_odpaci.jpg',
@@ -151,7 +154,8 @@ export default [
         description: 'Artlook helps users see what art event friends are attending, discover, share, plan, and attend art events. Using user experience processes, I found insights into consumer behavior to optimize my product.',
         abstract: 'Artlook helps users see what art event friends are attending, discover, share, plan, and attend art events.',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415364/download_aifo53.png', 
+          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489933/artlook1_zhvz0c.png',
+        //  'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415364/download_aifo53.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415369/Screen_Shot_2016-12-22_at_10.28.24_AM_bbqpqr.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415382/Screen_Shot_2016-12-22_at_11.00.50_AM_ehjait.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509415385/Screen_Shot_2016-12-22_at_11.06.20_AM_visng8.png', 
@@ -172,12 +176,14 @@ export default [
         credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Olena Subchuk, & Jake Smiley, Lead UX Designer: Jess Mireau, UX Designer: Robyn Korine, Lead Developer: Walt Mitchell, Copywriter: Laura Wasson, Creative Producer: Berto Aguayo, Account Manager: Karen Andres',
         abstract: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide is a digital companion for New York Botanical garden\'\s exhibition of Frida Kahlo\'\s work, 2016.',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429031/2._-_Front_-_Frida___Idol_vb2ufr.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429035/all_selfies_rblep4.jpg',
+          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509490142/NYBG-frida-kahlo1_ydqlok.jpg',
+  
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429078/saved_resource_3_nziqiq.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429044/saved_resource_1_obi11h.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508534582/Screen_Shot_2017-10-20_at_5.22.19_PM_y1yif4.png',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429078/saved_resource_3_nziqiq.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429082/saved_resource_2_gbnxg0.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429035/all_selfies_rblep4.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429031/2._-_Front_-_Frida___Idol_vb2ufr.jpg', 
+         
       ]
       },
 
