@@ -9,13 +9,13 @@ class SubNav extends Component {
         return(
             <div className="body clearfix">
                 <div className="subnav">
-                    <a className="subnav-item" href="/projects/5">Babyganics</a>
-                    <a className="subnav-item" href="/projects/2">Offkilter Ceramics</a>
-                    <a className="subnav-item" href="/projects/3">NYBG Impressionism</a>
                     <a className="subnav-item" href="/projects/1">Groundwork</a>
-                    <a className="subnav-item" href="/projects/4">Max Weinman</a>
-                    <a className="subnav-item" href="/projects/6">NYBG Frida Kahlo</a>
-                    <a className="subnav-item" href="/projects/7">Madway Holiday Gift</a>
+                    <a className="subnav-item" href="/projects/2">Offkilter Ceramics</a>
+                    <a className="subnav-item" href="/projects/3">Babyganics</a>
+                    <a className="subnav-item" href="/projects/4">NYBG Impressify</a>
+                    <a className="subnav-item" href="/projects/5">Max Weinman</a>
+                    <a className="subnav-item" href="/projects/6">Madway Holiday Gift</a>
+                    <a className="subnav-item" href="/projects/7">NYBG Frida Kahlo</a>
                 </div>
             </div>   
         )    

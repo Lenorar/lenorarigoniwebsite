@@ -35,49 +35,8 @@ export default [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426544/website-layout-04_d47170.png', 
       ]
       },
-
       {
         id: 3,
-        title: 'NYBG Impressify',
-        year: '2016', 
-        link: 'http://www.nybg.org/impressionism/',
-        participation: ['web design', 'user-experience', 'conceptualization'],
-        description: 'The microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition reflects many aspects of the impressionism movement. The \"\Impressify\"\ feature, specific to this exhibition, is a user-friendly tool that transforms the user\'\s image into a impressionist painting. While there are impressionism influences, the core design and wireframes are built to fulfill future exhibition microsites.',
-        abstract: 'Microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition.',
-        credit: 'Agency: Madwell, Lead Designer: Matt Fry, Designers: Ben Kirk, Lenora Rigoni, Lead YX Designer: Jess Mireau, UX Designers: Robyn Korine, Ben trinh, Lead Developer: Walt Mitchell, Developer: Katherine Beherec, Copywriter: Laura Wasson, Project Manager: Sal Librizzi, Account Manager: Hannah Stein',
-        images: [
-        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427159/impressify-hero_1_ipeqv5.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426818/saved_resource_hlnqbl.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426868/saved_resource_2_gefrpe.gif',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426864/saved_resource_1_lp4e3s.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426845/impressionism-mobile-7_g53w0w.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426849/impressionism-mobile-4_o3oa0k.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426853/impressionism-mobile-2_vv2ngf.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426855/impressionism-mobile-1_hsonmy.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426860/2_mbfzzy.jpg',      
-      ]
-      },
-
-      {
-        id: 4,
-        title: 'Max Weinman Portfolio',
-        year: '2017', 
-        link: 'http://www.maxweinman.com/',
-        participation: ['web design', 'web development', 'user-experience'],
-        description: 'Max Weinman received a bespoke website showcasing his films and photography. Through collaboration, Max and I determined the content and structure of the site. From there I created wireframes. Once approved, I began implementing the design through code. With a few iterations a clear vision for his portfolio site was completed.',
-        abstract: 'A bespoke website showcasing Max Weinman\'\s films and photography',
-        images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427307/minimal-mockup-1_jwidm1.jpg', 
-         'http://res.cloudinary.com/doez5fa8j/image/upload/v1508427311/Screen_Shot_2017-06-06_at_9.23.02_PM_yayrtb.png',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427314/Screen_Shot_2017-06-06_at_9.23.28_PM_tohgpb.png', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427320/1_bwwuxy.png', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427316/Screen_Shot_2017-06-06_at_9.24.14_PM_qtzygw.png',      
-      ]
-      },
-
-
-      {
-        id: 5,
         title: 'Babyganics',
         year: '2015', 
         participation: ['art direction', 'web design', 'user-experience', 'ceramics'],
@@ -101,28 +60,45 @@ export default [
       },
 
       {
-        id: 6,
-        title: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide',
+        id: 4,
+        title: 'NYBG Impressify',
         year: '2016', 
-        link: 'https://www.nybg.org/whats-on/',
-        description: 'A digital companion for New York Botanical Garden\'\s exhibition of Frida Kahlo\'\s work, 2016. The mobile guide provides audio commentary, and photo galleries, and videos to guide museum goers through the exhibit. The visual design is influenced by Frida herself, her home, garden, and work. With the guide, we created the Frida Selfie feature for users to create their own Frida-inspired self-portraits. Users can add Kahlo inspired work on their photos. From launching in May to September, 2016, the web app has received over 12,000 unique visitors over the course of 21,000 session. The web app received the silver 2016 MUSE Award for best mobile application from the American Alliance of Museums.',
+        link: 'http://www.nybg.org/impressionism/',
         participation: ['web design', 'user-experience', 'conceptualization'],
-        credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Olena Subchuk, & Jake Smiley, Lead UX Designer: Jess Mireau, UX Designer: Robyn Korine, Lead Developer: Walt Mitchell, Copywriter: Laura Wasson, Creative Producer: Berto Aguayo, Account Manager: Karen Andres',
-        abstract: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide is a digital companion for New York Botanical garden\'\s exhibition of Frida Kahlo\'\s work, 2016.',
+        description: 'The microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition reflects many aspects of the impressionism movement. The \"\Impressify\"\ feature, specific to this exhibition, is a user-friendly tool that transforms the user\'\s image into a impressionist painting. While there are impressionism influences, the core design and wireframes are built to fulfill future exhibition microsites.',
+        abstract: 'Microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition.',
+        credit: 'Agency: Madwell, Lead Designer: Matt Fry, Designers: Ben Kirk, Lenora Rigoni, Lead YX Designer: Jess Mireau, UX Designers: Robyn Korine, Ben trinh, Lead Developer: Walt Mitchell, Developer: Katherine Beherec, Copywriter: Laura Wasson, Project Manager: Sal Librizzi, Account Manager: Hannah Stein',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429031/2._-_Front_-_Frida___Idol_vb2ufr.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429035/all_selfies_rblep4.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429044/saved_resource_1_obi11h.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508534582/Screen_Shot_2017-10-20_at_5.22.19_PM_y1yif4.png',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429078/saved_resource_3_nziqiq.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429082/saved_resource_2_gbnxg0.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429085/saved_resource_5_grmrcf.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429088/saved_resource_6_vqqari.jpg', 
+        'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427159/impressify-hero_1_ipeqv5.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426818/saved_resource_hlnqbl.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426868/saved_resource_2_gefrpe.gif',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426864/saved_resource_1_lp4e3s.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426845/impressionism-mobile-7_g53w0w.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426849/impressionism-mobile-4_o3oa0k.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426853/impressionism-mobile-2_vv2ngf.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426855/impressionism-mobile-1_hsonmy.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426860/2_mbfzzy.jpg',      
       ]
       },
 
       {
-        id: 7,
+        id: 5,
+        title: 'Max Weinman Portfolio',
+        year: '2017', 
+        link: 'http://www.maxweinman.com/',
+        participation: ['web design', 'web development', 'user-experience'],
+        description: 'Max Weinman received a bespoke website showcasing his films and photography. Through collaboration, Max and I determined the content and structure of the site. From there I created wireframes. Once approved, I began implementing the design through code. With a few iterations a clear vision for his portfolio site was completed.',
+        abstract: 'A bespoke website showcasing Max Weinman\'\s films and photography',
+        images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427307/minimal-mockup-1_jwidm1.jpg', 
+         'http://res.cloudinary.com/doez5fa8j/image/upload/v1508427311/Screen_Shot_2017-06-06_at_9.23.02_PM_yayrtb.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427314/Screen_Shot_2017-06-06_at_9.23.28_PM_tohgpb.png', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427320/1_bwwuxy.png', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427316/Screen_Shot_2017-06-06_at_9.24.14_PM_qtzygw.png',      
+      ]
+      },
+      {
+        id: 6,
         title: 'Madwell Holiday Gift',
         year: '2016', 
         link: '',
@@ -141,6 +117,25 @@ export default [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429489/saved_resource_3_glvfqr.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429492/static1.squarespace-1_xjalkg.png', 
              
+      ]
+      },
+
+      {
+        id: 7,
+        title: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide',
+        year: '2016', 
+        link: 'https://www.nybg.org/whats-on/',
+        description: 'A digital companion for New York Botanical Garden\'\s exhibition of Frida Kahlo\'\s work, 2016. The mobile guide provides audio commentary, and photo galleries, and videos to guide museum goers through the exhibit. The visual design is influenced by Frida herself, her home, garden, and work. With the guide, we created the Frida Selfie feature for users to create their own Frida-inspired self-portraits. Users can add Kahlo inspired work on their photos. From launching in May to September, 2016, the web app has received over 12,000 unique visitors over the course of 21,000 session. The web app received the silver 2016 MUSE Award for best mobile application from the American Alliance of Museums.',
+        participation: ['web design', 'user-experience', 'conceptualization'],
+        credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Olena Subchuk, & Jake Smiley, Lead UX Designer: Jess Mireau, UX Designer: Robyn Korine, Lead Developer: Walt Mitchell, Copywriter: Laura Wasson, Creative Producer: Berto Aguayo, Account Manager: Karen Andres',
+        abstract: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide is a digital companion for New York Botanical garden\'\s exhibition of Frida Kahlo\'\s work, 2016.',
+        images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429031/2._-_Front_-_Frida___Idol_vb2ufr.jpg', 
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429035/all_selfies_rblep4.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429044/saved_resource_1_obi11h.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508534582/Screen_Shot_2017-10-20_at_5.22.19_PM_y1yif4.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429078/saved_resource_3_nziqiq.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429082/saved_resource_2_gbnxg0.jpg', 
       ]
       },
 
