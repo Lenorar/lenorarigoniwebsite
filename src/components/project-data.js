@@ -27,7 +27,7 @@ export default [
         link: 'http://www.groundworkpresents.com/',
         participation: ['art direction', 'web design', 'user-experience', 'ceramics'],
         description: 'Offkilter ceramics is my personal ceramics studio, based in brooklyn. Making the website was a personal project to develop my coding skills but became an opportunity for me to art direct the photography, produce ceramic pieces, and spearhead production.',
-        abstract: 'Offkilter ceramics is my personal ceramics studio, based in brooklyn',
+        abstract: 'Offkilter ceramics is my personal ceramics studio, based in brooklyn.',
         images: [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489596/offkilter1_rkuipq.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426521/heroimage_nq7yxe.png', 
@@ -43,7 +43,7 @@ export default [
         participation: ['art direction', 'web design', 'user-experience', 'ceramics'],
         description: 'The \"Grow Boldly\" campaign for Babyganics, a baby-safe product line, brings to life the 2D Babyganics\'\ characters into 3D forms. With 3D forms, stopmotion animations and diverse use of photography was possible. The process began with sketching, then sculpting in Sketchup, cutting on the laser cutter, and assembling with craftsmanship (plus a little bit of glue).Through branding, social, digital, analog, and photography we translated the baby-safe world into the consumer-facing campaign, encouraging playful and adventurous lifestyles.',
         credit: 'Agency: Madwell, Creative Director: Chris Sojka, Art Director: Matt Fry, 3D Modelers: Annie Zeng, Lenora Rigoni, Photographer: Andrea Fremiotti, Photo Compositor: John van Barneveld, Web Designers: Annie Zeng, Lenora Rigoni, Jake Smiley, Collins, Paper Crafters: Annie Zeng, Lenora Rigoni, Matt Fry, Olena Subchuk, Paper Retouchers: Annie Zeng, Lenora Rigoni, Olena Subchuk, Jacob Smiley',
-        abstract: 'The \"Grow Boldly\" campaign for Babyganics, a baby-safe product line, brings to life the 2D Babyganics\'\ characters into 3D forms',
+        abstract: 'The \"Grow Boldly\" campaign for Babyganics, a baby-safe product line, brings to life the 2D Babyganics\'\ characters into 3D forms.',
         images: [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489636/babyganics1_st6snb.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428467/bg_web_2_full-1_1_isseqf.jpg',
@@ -89,7 +89,7 @@ export default [
         link: 'http://www.maxweinman.com/',
         participation: ['web design', 'web development', 'user-experience'],
         description: 'Max Weinman received a bespoke website showcasing his films and photography. Through collaboration, Max and I determined the content and structure of the site. From there I created wireframes. Once approved, I began implementing the design through code. With a few iterations a clear vision for his portfolio site was completed.',
-        abstract: 'A bespoke website showcasing Max Weinman\'\s films and photography',
+        abstract: 'A bespoke website showcasing Max Weinman\'\s films and photography.',
         images: [
           'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489693/maxweinmanportfolio1_hxuena.png',
         //  'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427307/minimal-mockup-1_jwidm1.jpg', 
