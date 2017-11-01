@@ -87,7 +87,6 @@ span a:hover {
 
 p.nav-item:hover {
   text-decoration: underline;
-  color: #FC9D91;
   
 }
 
@@ -112,7 +111,7 @@ p.nav-item{
 .timeline-item, .toolkit-item , .project-item{
   float: left;
   height: 250px;
-  width: 20vh;
+  width: 25vh;
   padding: 0 2% 2% 0;
   margin-right: 5%;
 }
@@ -175,7 +174,7 @@ h1 {
 }
 
 .project-item:hover{
-  color:#FC9D91;
+  text-decoration: underline;
 }
 
 img.profile {
