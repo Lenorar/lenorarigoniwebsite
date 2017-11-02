@@ -5,7 +5,7 @@ export default [
       year: '2017', 
       link: 'http://www.groundworkpresents.com/',
       participation: ['art direction', 'web design', 'user-experience'],
-      description: 'Groundwork is a fully responsive website sharing ideas, initiatives, and information regarding the protection and advancement of the environment, community, and foods, brought to you by Tetra Pak, a packaging company whose innovative packaging technology protect food and beverages globally everyday. Conceptualizing to executing, the team of user experience specialists, copywriters, and designers work diligently together to create digestible, tasteful, and fact-filled articles.',
+      description: 'Groundwork is a fully responsive website sharing ideas, initiatives, and information regarding the protection and advancement of the environment, community, and foods, brought to you by Tetra Pak, a packaging company whose innovative packaging technology protect food and beverages globally everyday. Conceptualizing to executing, the team of user experience specialists, copywriters, and designers worked diligently together to create digestible, tasteful, and fact-filled articles.',
       credit: 'Agency: Madwell Art Director: Liz Garofano Designers:  Lenora Rigoni, Adrian Garcia Copy: Amanda Coten, David Salisbury Producer: Kalynn Rubino Account Manager: Colin Mckenzie',
       abstract: 'Groundwork is a fully responsive website sharing ideas, initiatives, and information regarding the protection and advancement of the environment, community, and foods.',
       images: [
@@ -68,7 +68,7 @@ export default [
         participation: ['web design', 'user-experience', 'conceptualization'],
         description: 'The microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition reflects many aspects of the impressionism movement. The \"\Impressify\"\ feature, specific to this exhibition, is a user-friendly tool that transforms the user\'\s image into a impressionist painting. While there are impressionism influences, the core design and wireframes are built to fulfill future exhibition microsites.',
         abstract: 'Microsite\'\s design for New York Botanical Garden\'\s American Impressionism exhibition.',
-        credit: 'Agency: Madwell, Lead Designer: Matt Fry, Designers: Ben Kirk, Lenora Rigoni, Lead YX Designer: Jess Mireau, UX Designers: Robyn Korine, Ben trinh, Lead Developer: Walt Mitchell, Developer: Katherine Beherec, Copywriter: Laura Wasson, Project Manager: Sal Librizzi, Account Manager: Hannah Stein',
+        credit: 'Agency: Madwell, Lead Designer: Matt Fry, Designers: Ben Kirk, Lenora Rigoni, Lead UX Designer: Jess Mireau, UX Designers: Robyn Korine, Ben Trinh, Lead Developer: Walt Mitchell, Developer: Katherine Beherec, Copywriter: Laura Wasson, Project Manager: Sal Librizzi, Account Manager: Hannah Stein',
         images: [
           'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489662/NYBG-Impressify1_dptrqq.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508426818/saved_resource_hlnqbl.jpg', 
@@ -171,7 +171,7 @@ export default [
         title: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide',
         year: '2016', 
         link: 'https://www.nybg.org/whats-on/',
-        description: 'A digital companion for New York Botanical Garden\'\s exhibition of Frida Kahlo\'\s work, 2016. The mobile guide provides audio commentary, and photo galleries, and videos to guide museum goers through the exhibit. The visual design is influenced by Frida herself, her home, garden, and work. With the guide, we created the Frida Selfie feature for users to create their own Frida-inspired self-portraits. Users can add Kahlo inspired work on their photos. From launching in May to September, 2016, the web app has received over 12,000 unique visitors over the course of 21,000 session. The web app received the silver 2016 MUSE Award for best mobile application from the American Alliance of Museums.',
+        description: 'A digital companion for New York Botanical Garden\'\s exhibition of Frida Kahlo\'\s work, 2016. The mobile guide provides audio commentary, photo galleries, and videos to guide museum goers through the exhibit. The visual design is influenced by Kahlo herself, her home, garden, and work. With the guide, we created the Frida Selfie feature for users to create their own Frida-inspired self-portraits. Users can add Kahlo inspired work on their photos. From launching in May to September, 2016, the web app has received over 12,000 unique visitors over the course of 21,000 session. The web app received the silver 2016 MUSE Award for best mobile application from the American Alliance of Museums.',
         participation: ['web design', 'user-experience', 'conceptualization'],
         credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Olena Subchuk, & Jake Smiley, Lead UX Designer: Jess Mireau, UX Designer: Robyn Korine, Lead Developer: Walt Mitchell, Copywriter: Laura Wasson, Creative Producer: Berto Aguayo, Account Manager: Karen Andres',
         abstract: 'FRIDA KAHLO: Art, Garden, Life Mobile Guide is a digital companion for New York Botanical garden\'\s exhibition of Frida Kahlo\'\s work, 2016.',
