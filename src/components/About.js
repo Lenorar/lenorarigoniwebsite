@@ -10,7 +10,7 @@ class About extends Component {
                 <div className='intro '>
                     <div>
                         <h1 className="website-title">Lenora Rigoni</h1>
-                        <p className="website-title"> I am a multi-disciplinary designer with web development experience living in New York City. From sketching to writing Javascript, I like to make usable things with progressive tools. I have worked on projects in web design, brand identity, application design, web development, creative direction, social media content and more.</p>
+                        <p className="website-title">I am a graphic designer with full-stack web development experience living in New York City. With my strong understanding of the intersection between design and development, I am able to make user-friendly and innovative interfaces. My past experience includes web design, web development, campaign creation, brand identity, social media content, and more.</p>
                         <div className="person-links">
                             <span><a target="_blank" href="https://www.linkedin.com/in/lenorarigoni/">linkedin</a></span>
                             <span><a target="_blank" href="https://github.com/Lenorar">github</a></span>
