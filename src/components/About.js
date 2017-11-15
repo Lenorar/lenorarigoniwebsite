@@ -73,7 +73,7 @@ class About extends Component {
                     </div>
                     <div className="timeline-item">
                         <h2 className="about-timeline-year">2017</h2>
-                        <p>Went to General Assembly’s Web Design Immersive where I focused on full-stack development.</p><p>Got really into <a href="http://www.codepuns.com/">coding puns.</a></p>
+                        <p>Went to General Assembly’s Web Development Immersive where I focused on full-stack development.</p><p>Got really into <a href="http://www.codepuns.com/">coding puns.</a></p>
                     </div>
                     <div className="timeline-item">
                         <h2 className="about-timeline-year">Now</h2>
