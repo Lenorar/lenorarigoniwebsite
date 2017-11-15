@@ -114,6 +114,7 @@ export default [
           'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489838/madwell-holiday-gift1_ji11eo.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429456/saved_resource_1_gbfaey.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429459/card_vcni1m.gif',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/t/589914bab3db2bf74c10c481/1482419066818/?format=2500w',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429466/download_zroqhm.gif', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429469/download_3_bfcvau.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429471/download_4_tgs0t6.png', 
