@@ -143,6 +143,14 @@ a{
     
 }
 
+.about-timeline-year:hover {
+  text-decoration: none;
+}
+
+.timeline-item a:hover{
+  color: #2651FC;
+}
+
 h3 {
   font-size: 1rem;
   font-weight: 400;
