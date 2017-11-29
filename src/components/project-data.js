@@ -102,6 +102,28 @@ export default [
 
       {
         id: 5,
+        title: 'FUR',
+        year: '2016', 
+        link: 'https://furyou.com/products/fur-oil',
+        description: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations. ',
+        participation: ['social content concepting', 'logo iteration', 'product/photography retouching'],
+        abstract: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations.',
+        images: [
+          'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb183085229dccc4caece/1511960967223/fur-web.jpg?format=1500w', 
+          
+  
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/575602c5746fb9ba96652753/1465254608074/fur_product_hero.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb075652dea2e1aff4696/1511960710338/fur-process-3.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb0c44192021369b01521/1511960773218/5-film.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb08324a694106d2e7f92/1511960723817/fur-process-2.jpg?format=1500w',
+         
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5756044bf8baf3bdfb86a8ee/1465254994572/fur-poster2.jpg?format=1500w',
+         
+      ]
+      },
+
+      {
+        id: 6,
         title: 'Max Weinman Portfolio',
         year: '2017', 
         link: 'http://www.maxweinman.com/',
@@ -120,7 +142,7 @@ export default [
 
 
       {
-        id: 6,
+        id: 7,
         title: 'Madwell Holiday Gift',
         year: '2016', 
         link: '',
@@ -145,27 +167,7 @@ export default [
       },
 
 
-      {
-        id: 7,
-        title: 'FUR',
-        year: '2016', 
-        link: 'https://furyou.com/products/fur-oil',
-        description: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations. ',
-        participation: ['social content concepting', 'logo iteration', 'product/photography retouching'],
-        abstract: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations.',
-        images: [
-          'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb183085229dccc4caece/1511960967223/fur-web.jpg?format=1500w', 
-          
-  
-         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/575602c5746fb9ba96652753/1465254608074/fur_product_hero.jpg?format=1500w',
-         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb075652dea2e1aff4696/1511960710338/fur-process-3.jpg?format=1500w',
-         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb0c44192021369b01521/1511960773218/5-film.jpg?format=1500w',
-         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb08324a694106d2e7f92/1511960723817/fur-process-2.jpg?format=1500w',
-         
-         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5756044bf8baf3bdfb86a8ee/1465254994572/fur-poster2.jpg?format=1500w',
-         
-      ]
-      },
+
 
 
       {
