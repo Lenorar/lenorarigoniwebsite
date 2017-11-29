@@ -47,16 +47,31 @@ export default [
         images: [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489636/babyganics1_st6snb.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428467/bg_web_2_full-1_1_isseqf.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427941/18_h3qsw1.png',
+         'http://www.madwell.com/wp-content/uploads/2016/02/BG_product_full-.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427961/bg_3_llqvz0.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428029/modelGallery1_jna3ir.jpg',         
+         
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/561024b6e4b09e1a44ebade5/56102687e4b0890ee927ad50/1466528407565/bg_6.jpg?format=750w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/561024b6e4b09e1a44ebade5/56102686e4b00e2783b3f084/1466528408565/bg_4.jpg?format=750w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/561024b6e4b09e1a44ebade5/57697160197aea6c19995a71/1466528409122/_95B9956.JPG?format=750w',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427971/bg_13_bxdkzc.jpg', 
+         
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427941/18_h3qsw1.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427945/Alligator-02_tqybn1.png', 
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428827/8_sf04l1.png',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427961/bg_3_llqvz0.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508427971/bg_13_bxdkzc.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428040/saved_resource_4_wtvb8c.jpg', 
+
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428287/bg_29_upnagl.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428285/bg_26_spfabx.jpg', 
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428290/bg_28_vvmxxs.jpg',        
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428290/bg_28_vvmxxs.jpg',   
+
+         'http://www.madwell.com/wp-content/uploads/2016/02/bg_web_1_full-1.jpg',
+         
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1508428040/saved_resource_4_wtvb8c.jpg',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/t/58990f9c579fb3651b60da76/1478199045010/?format=500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/t/58990f9c579fb3651b60da78/1478199503963/?format=500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/t/58990f9c579fb3651b60da79/1478199569550/?format=500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/t/58990f9c579fb3651b60da77/1478199415186/ezgif.com-optimize.gif?format=500w'
+         
       ]
       },
 

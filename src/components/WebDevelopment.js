@@ -7,17 +7,7 @@ class About extends Component {
         const img = require('../images/githubicon.svg');
         return(
             <div className="body projects-homepage clearfix">
-                <div className="project">                     
-                    <a target="_blank" href="https://blooming-escarpment-41504.herokuapp.com/">
-                      <div className="project-item">
-                        <h2>Photography Collection</h2>
-                        <p className="description">Full CRUD application where users can collect and discover photographer’s work.</p>
-                        <img className="profile" src="https://res.cloudinary.com/doez5fa8j/image/upload/v1509493441/photography-collection_dqnfl1.png" />
-                        <h3>React, Ruby on Rails, PostgeSQL, database creation, CSS, Javascript</h3>
-                        <a target="_blank" href="https://github.com/Lenorar/photography-collection-back-end"><img className="github" src={img}/> </a> 
-                    </div>
-                    </a>
-                </div>
+
                 <div className="project">                     
                     <a target="_blank" href="http://www.maxweinman.com/">
                       <div className="project-item">
@@ -75,6 +65,17 @@ class About extends Component {
                         <img  className="profile" src="https://res.cloudinary.com/doez5fa8j/image/upload/v1509493465/medi-flash_sz7kyi.png" />
                         <h3>React, Node.js, Express, Javascript, CSS</h3>
                         <a target="_blank" href="https://github.com/Dichora2"><img className="github" src={img}/></a> 
+                    </div>
+                    </a>
+                </div>
+                <div className="project">                     
+                    <a target="_blank" href="https://blooming-escarpment-41504.herokuapp.com/">
+                      <div className="project-item">
+                        <h2>Photography Collection</h2>
+                        <p className="description">Full CRUD application where users can collect and discover photographer’s work.</p>
+                        <img className="profile" src="https://res.cloudinary.com/doez5fa8j/image/upload/v1509493441/photography-collection_dqnfl1.png" />
+                        <h3>React, Ruby on Rails, PostgeSQL, database creation, CSS, Javascript</h3>
+                        <a target="_blank" href="https://github.com/Lenorar/photography-collection-back-end"><img className="github" src={img}/> </a> 
                     </div>
                     </a>
                 </div>
