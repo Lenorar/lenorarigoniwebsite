@@ -143,27 +143,31 @@ export default [
              
       ]
       },
+
+
       {
         id: 7,
-        title: 'Thingmade',
-        year: '2015', 
-        link: 'https://www.thingmade.com/',
-        description: 'For the website launch of Thingmade, a boutique shop designed by Madwell, photography played a crucial role in setting the tone of the brand. Influenced by the colors of the brand and the nature of the products, we created quirky and surreal compositions.',
-        participation: ['art direction', 'photography'],
-        credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Annie Zeng',
-        abstract: 'Art direction and photography for Thingmade, a boutique shop founded by Madwell.',
+        title: 'FUR',
+        year: '2016', 
+        link: 'https://furyou.com/products/fur-oil',
+        description: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations. ',
+        participation: ['social content concepting', 'logo iteration', 'product/photography retouching'],
+        abstract: 'For the launch of Fur, the first line of products that cares for pubic hair and skin, I retouched product photography and explored different types of logo iterations.',
         images: [
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489887/thingmade1_ksmsvp.png',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414438/1_kg9smw.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414786/thingmade1_t9mkpr.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414459/3_odpaci.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414477/5_eb4ecj.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414852/thingmade2_idlosf.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414847/scooping_w1viu9.jpg',
-         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414475/4_c7jrri.jpg'
+          'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb183085229dccc4caece/1511960967223/fur-web.jpg?format=1500w', 
+          
+  
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/575602c5746fb9ba96652753/1465254608074/fur_product_hero.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb075652dea2e1aff4696/1511960710338/fur-process-3.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb0c44192021369b01521/1511960773218/5-film.jpg?format=1500w',
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5a1eb08324a694106d2e7f92/1511960723817/fur-process-2.jpg?format=1500w',
          
-        ]
+         'https://static1.squarespace.com/static/56100450e4b0ae4a96b7447c/575602c58a65e2fb3449b02b/5756044bf8baf3bdfb86a8ee/1465254994572/fur-poster2.jpg?format=1500w',
+         
+      ]
       },
+
+
       {
         id: 8,
         title: 'Artlook',
@@ -202,9 +206,32 @@ export default [
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508534582/Screen_Shot_2017-10-20_at_5.22.19_PM_y1yif4.png',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429035/all_selfies_rblep4.jpg',
          'https://res.cloudinary.com/doez5fa8j/image/upload/v1508429031/2._-_Front_-_Frida___Idol_vb2ufr.jpg', 
-         
       ]
       },
+
+
+      {
+        id: 10,
+        title: 'Thingmade',
+        year: '2015', 
+        link: 'https://www.thingmade.com/',
+        description: 'For the website launch of Thingmade, a boutique shop designed by Madwell, photography played a crucial role in setting the tone of the brand. Influenced by the colors of the brand and the nature of the products, we created quirky and surreal compositions.',
+        participation: ['art direction', 'photography'],
+        credit: 'Lead Designer: Matt Fry, Designers: Lenora Rigoni, Annie Zeng',
+        abstract: 'Art direction and photography for Thingmade, a boutique shop founded by Madwell.',
+        images: [
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509489887/thingmade1_ksmsvp.png',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414438/1_kg9smw.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414786/thingmade1_t9mkpr.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414459/3_odpaci.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414477/5_eb4ecj.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414852/thingmade2_idlosf.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414847/scooping_w1viu9.jpg',
+         'https://res.cloudinary.com/doez5fa8j/image/upload/v1509414475/4_c7jrri.jpg'
+         
+        ]
+      },
+
 
   ]
   
